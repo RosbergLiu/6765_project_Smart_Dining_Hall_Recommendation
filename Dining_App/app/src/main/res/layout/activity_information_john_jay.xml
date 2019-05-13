@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_johnjay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".activities.Information_John_Jay">
+
+    <TextView
+        android:id="@+id/john_jay_resp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20pt"
+        android:textAllCaps="true"
+        android:textColor="@color/colorFragText"
+        />
+
+    <ListView
+        android:id="@+id/list_john_jay"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_below="@id/john_jay_resp">
+    </ListView>
+
+</RelativeLayout>

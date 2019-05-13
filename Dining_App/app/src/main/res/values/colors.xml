@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1da1f2</color>
+    <color name="colorPrimaryDark">#f1f1f1</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorBackground">#f1f1f1</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#FFFFFF</color>
+    <color name="colorFragText">#080808</color>
+    <color name="colorButtonJohnJay">#DB4437</color>
+    <color name="colorButtonJJ">#4285F4</color>
+    <color name="colorButtonFerris">#F4B400</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="ratingStar">#ff0000</color>
+    <color name="ratingBack">#c0c0c0</color>
+</resources>

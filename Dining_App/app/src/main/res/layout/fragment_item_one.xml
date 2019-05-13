@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="80dp"
+    android:orientation="vertical"
+    tools:context="com.iotproject.diningapp.activities.ItemOneFragment">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButtonJohnJay"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="100dp"
+        android:background="@color/colorButtonJohnJay"
+        android:text="@string/dining_hall_one"
+        android:textColor="@color/colorTextHint" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButtonJJ"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="200dp"
+        android:background="@color/colorButtonJJ"
+        android:text="@string/dining_hall_two"
+        android:textColor="@color/colorTextHint" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/appCompatButtonFerris"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="300dp"
+        android:background="@color/colorButtonFerris"
+        android:text="@string/dining_hall_three"
+        android:textColor="@color/colorTextHint" />
+
+</RelativeLayout>

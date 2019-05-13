@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_ferris"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".activities.Information_Ferris">
+
+    <TextView
+        android:id="@+id/ferris_resp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorFragText"
+        android:layout_margin="20pt"
+        android:textAllCaps="true"
+        />
+
+
+    <ListView
+        android:id="@+id/list_ferris"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_below="@id/ferris_resp">
+    </ListView>
+
+</RelativeLayout>
