@@ -25,3 +25,6 @@ After finishing meal, user can use the app to grade dishes to provide further re
 ## Video demonstration:
 Data acquisition: https://youtu.be/ghrdqg5_Q18  
 Android app: https://youtu.be/lLXLHD-_zLk  
+
+## Website:
+http://iotcolumbia2019llsh.weebly.com/
