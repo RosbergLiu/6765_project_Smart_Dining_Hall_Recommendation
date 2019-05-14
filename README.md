@@ -21,3 +21,7 @@ ID	Dining Hall		Node / Hostname			Database Name
 Open the app to get diner count data of each dining hall & a recommendation of dining hall.  
 Open the app get table availability data and menu for this dining hall.  
 After finishing meal, user can use the app to grade dishes to provide further reference for future recommendation.  
+
+## Video demonstration:
+Data acquisition: https://youtu.be/ghrdqg5_Q18  
+Android app: https://youtu.be/lLXLHD-_zLk  
